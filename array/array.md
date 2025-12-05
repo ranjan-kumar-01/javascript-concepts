@@ -7,7 +7,7 @@
 
 2. filter() - This method creates a new array with only elements that passes the condition inside the provided function.
 
-3. sort() - This method is used to arrange/sort array’s elements either in ascending or descending order.
+3. sort() - This method is used to arrange/sort array’s elements either in ascending or descending order. **The items are sorted as strings by default.
 
 4. forEach() - This method helps to loop over array by executing a provided callback function for each element in an array.
 
