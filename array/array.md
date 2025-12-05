@@ -31,9 +31,10 @@
 
 14. fill() - This method fills the elements in an array with a static value and returns the modified array.
 
-15. slice() - This method returns a new array with specified start to end elements.
+15. slice() - This method returns a new array containing selected elements from the original array, based on the start and end indexes you provide. It does NOT modify the original array.
 
-16. reverse() - This method reverses an array in place. Element at last index will be first and element at 0 index will be last.
+16. reverse() - This method reverses the order of elements inside the same array. 
+👉 Important: It MODIFIES the original array. It also returns the same array after reversing.
 
 17. push() - This method adds one or more elements to the end of array and returns the new length of the array.
 
